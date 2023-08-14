@@ -63,4 +63,4 @@ Equipped with a passion for decoding data's secrets, I am on a mission to reveal
 - Curating byte-sized data wisdom through Gists.
 - Crafting contributions that spark the flames of curiosity.
 
-Let's embark on a journey to decipher data's enigmatic tales together! 🚀🔍📊.
+Let's embark on a journey to decipher data's enigmatic tales together! 🚀🔍📊
